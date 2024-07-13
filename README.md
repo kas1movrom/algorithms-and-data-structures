@@ -1,2 +1,1 @@
-# aisd2023
-
+This repository contains my AaDS labs. Each lab contains tasks that are stored in the tasks folder. The general task is in the file with the lab number, and the individual task is in the file, the name of which is similar to the result of the hash function. Each lab contains a Makefile. The main language: C.
